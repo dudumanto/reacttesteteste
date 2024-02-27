@@ -1,0 +1,82 @@
+.h2h2{
+font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 55px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+margin-left: 5px;
+}.h1h1{
+font-family: sans-serif;   
+font-style: normal;
+font-weight: 800;
+font-size: 60px;
+line-height: 63px;
+display: flex;
+align-items: center;
+color: #7AE2E9;
+margin-top: -2%;
+}.h3h3{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 55px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}.oi{
+    margin-left: 10%;
+    margin-top: 8%;
+
+}.especialista{
+    font-size: 43px;
+    margin-left: 10%;
+}.marcados{
+font-family: sans-serif;   
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+display: flex;
+align-items: center;
+color: rgba(255, 255, 255, 0.8);
+margin-top: 60px;
+margin-left: 10%;
+
+}.campos{
+    margin-left: 10%;
+}.imagem22{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+@media only screen and (min-width: 320px) and (max-width: 765px) {
+    .h1h1 {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 35px;
+        line-height: 63px;
+        display: flex;
+        align-items: center;
+        color: #7AE2E9;
+        margin-top: -2%;
+    }.h2h2 {
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 55px;
+        display: flex;
+        align-items: center;
+        color: #FFFFFF;
+        margin-left: 5px;
+        white-space: nowrap;
+    }.oi {
+        margin-left: 7%;
+        margin-top: -70%;
+    }
+    
+}

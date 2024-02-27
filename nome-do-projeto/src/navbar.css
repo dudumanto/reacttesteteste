@@ -1,0 +1,33 @@
+.oioi{   
+    font-size: 20px;
+}.collapse{
+    margin-left: 40%;
+}.imagemimagem{
+    width: 300%;
+    margin-left: 65%;
+
+}.nome{
+    margin-left: -17%;
+}.navbar{
+    background-color: #002C44;
+
+}.nav-item{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 78px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}.mr-auto{
+    margin-left: -30%;
+
+}.nav-item {
+    margin-right: 45px; /* ou outro valor conforme necessário */
+}.navbar-nav{
+    margin-left: -17%;
+    margin-top: 5px;
+
+
+}
